@@ -1,2 +1,2 @@
 # ZPI03
-Componenns of Softwear Engineering
+Components of Software Engineering
